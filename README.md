@@ -1,8 +1,4 @@
----
-description: >-
-  A C-based toolkit for converting numbers and performing calculations across
-  binary, octal, decimal, and hexadecimal systems.
----
+
 
 # Number System Toolkit
 
